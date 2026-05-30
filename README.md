@@ -12,36 +12,32 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class Akshaya:
-    def __init__(self):
-        self.name        = "Akshaya C K"
-        self.location    = "Salem, Tamil Nadu, India 🇮🇳"
-        self.degree      = "B.E. Computer Science & Engineering (2023–2027)"
-        self.college     = "JKK Munirajah College of Technology"
-        self.cgpa        = 8.9
+    name     = "Akshaya C K"
+    location = "Salem, Tamil Nadu 🇮🇳"
+    degree   = "B.E. CSE (2023-2027)"
+    college  = "JKK Munirajah College of Tech"
+    cgpa     = 8.9
 
-        self.stack       = [
-            "Python", "Java", "C",
-            "HTML", "CSS",
-            "MySQL", "Linux", "Git"
-        ]
+    stack = [
+        "Python", "Java", "C",
+        "HTML", "CSS", "MySQL",
+        "Linux", "Git"
+    ]
 
-        self.currently_learning = [
-            "Advanced Software Testing",
-            "Cloud Computing (AWS fundamentals)",
-            "Data Structures & Algorithms"
-        ]
+    learning = [
+        "Advanced Software Testing",
+        "Cloud Computing (AWS)",
+        "Data Structures & Algorithms"
+    ]
 
-        self.fun_fact    = "I found 100+ bugs in 15 days — professionally 🐛"
+    fun_fact = "Found 100+ bugs in 15 days 🐛"
 
     def motto(self):
-        return "Build reliable. Test rigorously. Ship confidently. 🚀"
-
-me = Akshaya()
-print(me.motto())
+        return "Build. Test. Ship. 🚀"
 ```
 
 <br clear="right"/>

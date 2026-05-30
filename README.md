@@ -12,35 +12,34 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
-```python
-class Akshaya:
-    name     = "Akshaya C K"
-    location = "Salem, Tamil Nadu 🇮🇳"
-    degree   = "B.E. CSE (2023-2027)"
-    college  = "JKK Munirajah College of Tech"
-    cgpa     = 8.9
+### 🌟 Hi, I'm Akshaya!
 
-    stack = [
-        "Python", "Java", "C",
-        "HTML", "CSS", "MySQL",
-        "Linux", "Git"
-    ]
+A passionate **Computer Science undergrad** from Tamil Nadu who loves building smart solutions and breaking things (on purpose 🐛).
 
-    learning = [
-        "Advanced Software Testing",
-        "Cloud Computing (AWS)",
-        "Data Structures & Algorithms"
-    ]
+- 🏠 &nbsp; Based in **Salem, Tamil Nadu, India**
+- 🎓 &nbsp; Pursuing **B.E. Computer Science & Engineering** (2023–2027)
+- 🏫 &nbsp; **JKK Munirajah College of Technology** · CGPA **8.9**
+- 💼 &nbsp; Former **Software Testing Intern** at Prossure Pvt. Ltd.
+- 🐛 &nbsp; Found **100+ bugs in 15 days** — professionally!
+- 🤖 &nbsp; Building AI-powered apps that actually help people
+- ☁️ &nbsp; Exploring **Cloud Computing & AWS**
+- 💬 &nbsp; Ask me about **Python, Testing, or AI Projects**
+- ⚡ &nbsp; Fun fact: I debug code the way detectives solve cases 🔍
 
-    fun_fact = "Found 100+ bugs in 15 days 🐛"
+<br/>
 
-    def motto(self):
-        return "Build. Test. Ship. 🚀"
-```
+> *"Build reliable. Test rigorously. Ship confidently."* 🚀
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 

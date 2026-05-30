@@ -14,7 +14,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
+
 class Akshaya:
     def __init__(self):
         self.name        = "Akshaya C K"
@@ -42,7 +42,7 @@ class Akshaya:
 
 me = Akshaya()
 print(me.motto())
-```
+
 
 <br clear="right"/>
 
@@ -181,13 +181,13 @@ print(me.motto())
 
 ## 🌱 Currently Learning
 
-```
+
 🧪 Software Testing    → Automation Testing, Selenium, Test Planning
 ☁️  Cloud Computing    → AWS Core Services, Serverless, Deployment Pipelines
 🗄️  Databases          → SQL Optimization, Indexing, Query Design
 🐍 Python Advanced    → APIs, Data Handling, Backend Scripting
 🔧 DevOps Basics      → CI/CD Concepts, Version Control Workflows
-```
+
 
 ---
 

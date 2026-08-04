@@ -167,7 +167,7 @@ A passionate **Computer Science undergrad** from Tamil Nadu who loves building s
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
-| B.E. Computer Science & Engineering | JKK Munirajah College of Technology, Tamil Nadu | 2023 – 2027 | CGPA: 8.9 |
+| B.E. Computer Science & Engineering | JKK Munirajah College of Technology, Tamil Nadu | 2023 – 2027 | CGPA: 9.1 |
 | Higher Secondary (Class XII) | Model School | 2022 – 2023 | 76.5% |
 
 </div>
